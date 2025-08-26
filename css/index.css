@@ -30,6 +30,7 @@ text-align:center;
 }
 th{width: 120px; padding:10px 0; color:#fff; background:linear-gradient(91deg, #1A00DF -0.74%, #8B11EB 100%); border-bottom:3px solid #fff; }
 td{width:auto; padding:10px; text-align:center; border-bottom:3px solid #fff; background:#ddd}
+td.date{background:#fff;}
 tr:nth-child(even) td:not(.date){background:#eee }
 td a:hover{color:rgb(255, 0, 170);}
 td a span{color:#ff0000; font-size:10px; transform: translateY(-10px); display: inline-block;}
